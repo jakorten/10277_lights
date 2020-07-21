@@ -1,4 +1,4 @@
-# 10277_lights
+# LEGO set 10277 lights MOD
 Custom Lightning for LEGO 10277 Ce 6/8" Crocodile
 
 I have included the:
